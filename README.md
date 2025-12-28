@@ -24,5 +24,10 @@ NBA API
 Basketballreference.com
 NFL API
 
+# NBA Data Sources
+Ball Don't Lie
+Api-Sports
+TheSportDB
+OddsAPI
 
 
